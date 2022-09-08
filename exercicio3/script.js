@@ -9,7 +9,7 @@ const nome = prompt("Me diga seu nome")
 // 	console.log("Olá, "+nome);
 // }
 
-nome === "José" ? console.log("Oi, Zé!") : console.log("Olá, "+nome)
+nome === "José" ? console.log("Oi, Zé!") : console.log("Olá, " + nome)
 
 //2.
 
